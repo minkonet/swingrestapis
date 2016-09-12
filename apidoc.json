@@ -1,5 +1,6 @@
 {
   "name": "Swing REST APIs",
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "description": "This is the reference manual of Swing Server REST APIs."
 }
 
